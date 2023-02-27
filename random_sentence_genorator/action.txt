@@ -28,3 +28,5 @@ sitting
 standing
 lying
 falling
+Dancing
+/home/codespace/.python/current/bin/python3 /workspaces/Computer-science-tasks/random_sentence_genorator/silly_sentence_genorator.py
